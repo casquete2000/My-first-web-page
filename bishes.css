@@ -1,0 +1,48 @@
+/* This is a comment */
+#intro {
+  color: pink;
+  border: 5px solid pink;
+  padding: 20px;
+  margin: 20px;
+}
+
+.default {
+  color: pink;
+  border: 5px solid pink;
+  height: 50px;
+}
+
+#special-one {
+  font-size: 22px;
+}
+
+.text-center {
+    text-align:center;
+}
+.default {
+    color: pink;
+}
+body {
+    background-image:url(https://78.media.tumblr.com/202d6a1fff473b21ff1a104fb1af585e/tumblr_opab9ws8vL1ta5iimo1_500.gif);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+html {
+    height: 100%
+}
+div {
+  border: 1px solid pink;
+}
+
+.default {
+  float: left;
+  width: 75%;
+  overflow: auto;
+  width: 50%;
+  border: 5px solid pink;
+}
+#intro {
+  float: center;
+  width: 75%;
+  overflow: auto;
+}
