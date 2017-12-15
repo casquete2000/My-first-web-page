@@ -1,0 +1,43 @@
+div {
+
+}
+#wrapper {
+  
+}
+#header {
+
+}
+#content {
+
+}
+.block {
+
+}
+
+.card {
+  width: 32%;
+  border: 1px solid gray;
+  margin: 5px;
+  float: left;
+   border-radius: 10px;
+
+   /* min-height: 300px; */
+}
+
+.text-card {
+
+}
+
+.img-card {
+
+}
+
+.img-card img {
+  border: 1px solid red;
+  width: 50%;
+   border-radius: 10px;
+}
+
+.clearfix {
+  clear: both;
+}
